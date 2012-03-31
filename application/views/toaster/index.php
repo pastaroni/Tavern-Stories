@@ -1,0 +1,1 @@
+<h1>Hello, <?=HTML::chars($name)?>!</h1>
